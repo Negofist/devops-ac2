@@ -3,11 +3,9 @@
 
 * Mercurial
 
- ramo1
-* GitLab
 
-* GitLab
- master
+* Git
+
 
 * Subversion
 
